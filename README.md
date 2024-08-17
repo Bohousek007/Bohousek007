@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bohousek007&label=Profile%20views&color=0e75b6&style=flat" alt="bohousek007" /> </p>
 
-- 🔭 I’m currently working on [My Personal Journal](https://github.com/Bohousek007/personaljournal-frontend)
+- 🔭 I’m currently working on [My Personal Journal](https://github.com/Bohousek007/mypersonaljournal)
 
 - 🌱 I’m currently learning **React, Javascript, MongoDB.**
 
